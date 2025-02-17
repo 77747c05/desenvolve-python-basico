@@ -1,0 +1,13 @@
+
+Pseudocodigo
+
+9xN = N-1*10 + 10-N
+
+1- Inicio
+2- Determine N;   # Entrada
+3- A= N-1;    #processamento
+4-B= 10-N;    #processamento
+5- C= A*10    #processamento
+6-Z=C+B    #processamento
+7- Imprima Z     # saida
+8- Fim

@@ -1,5 +1,4 @@
-
-
+Dissertativa
 1- Leia e armazene na variável "N", o numero a ser multiplicado por 9;
 2- Aplique a formula ( n-1)*10 armazene na variável "dezena"
 3 Aplique a formula (10-n) e armazene na variável "unidade"
